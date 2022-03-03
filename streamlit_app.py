@@ -1,5 +1,5 @@
 import streamlit as st
-from sklearn import tree
+#from sklearn import tree
 from joblib import load
 from sklearn import datasets
 
